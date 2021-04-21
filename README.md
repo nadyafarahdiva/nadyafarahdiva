@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**nadyafarahdiva/nadyafarahdiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gadjah Mada University as Geophysicst student
@@ -13,4 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me on mail :nadya.farahdiva@mail.ugm.ac.id
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: lovibg skz 24/7 and still can't get enough
--->
+<!--
+**nadyafarahdiva/nadyafarahdiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
